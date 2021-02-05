@@ -1,0 +1,23 @@
+[
+{
+"id": 1,
+"categoria": "Trouxinha",
+"modelo": "Chimera",
+"tamanho": "P",
+"cor": "Âmbar",
+},
+{
+"id": 2,
+"categoria": "Vaso",
+"modelo": "Ypê",
+"tamanho": "G",
+"cor": "Acqua",
+},
+{
+"id": 3,
+"categoria": "Cachepô",
+"modelo": "King",
+"tamanho": "M",
+"cor": "Esmeralda",
+},
+]
